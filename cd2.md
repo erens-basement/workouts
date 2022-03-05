@@ -351,8 +351,21 @@ Workout Log
     * 50x10, 50x10, 50x10, 50x10
     * Single handles
 ### 03/05/S W3D6 - Legs (Pump)
-1. Lying Leg Curl
-2. Leg Press
-3. Hack Squat
-4. Smith Lunge
-5. Seated Calve Raises
+1. Lying Leg Curl 4x12 RPE10
+    * 110x12, 110x12, 110x12
+    * Warm up with 95
+    * Knee still hurts on 1st rep
+2. Leg Press 4s ecc 3x? RPE9
+    * 3'x10 3'25x10, 4'x10
+3. Hack Squat 4s ecc 3x8 RPE9
+    * 3'x8, 3'x8, 4'x8
+    * slow and deep
+    * do 4' next time
+4. Smith Lunge 3x12 RPE9
+    * 25x12, 35x12, 1'x12
+5. Seated Calve Raises 6x8 10s ISO RPE9
+    * 3'x8, 3'x8, 3'x8, 3'x8, 3'x8, 3'x8
+    * Heavy weight
+#### Notes:
+* Phil, tattoo buff white old man
+* secret to growing is not using heavy weights

@@ -178,9 +178,9 @@ Workout Log
 8. Incline skullcrushers 4x12 RPE9 90s B
     * 18x12, 18x12, 18x12, 18x14
 #### Notes:
-    * So fucking humid today
-    * Deadlift yesterday was a shit idea
-    * I've been doing cage press wrong, bar supposed to slide up down cage like smith machine (fixed path)
+* So fucking humid today
+* Deadlift yesterday was a shit idea
+* I've been doing cage press wrong, bar supposed to slide up down cage like smith machine (fixed path)
 ### 02/23/W W2D3 - Legs
 1. Lying Leg Curl 4x10 RPE9-12
     * 80x10, 90x6, 70x10
@@ -196,8 +196,8 @@ Workout Log
 5. Standing calve raises 6x10 RPE9-10
     * 4'5x10, 4'5x10, 4'5x10, 4'5x10, 4'5x10, 4'5x10
 #### Notes: 
-    * My knee kinda hurts from running yesterday, don't run right before leg day
-    * Left knee popping when i extend it, top left side, inside of kneee hurts when I pull it in 
+* My knee kinda hurts from running yesterday, don't run right before leg day
+* Left knee popping when i extend it, top left side, inside of kneee hurts when I pull it in 
 ### 02/24/T W1D4 - Back (Pump)
 1. Cable row single handle 4x10 RPE9
     * 70x10, 60x10, 60x10, 60x10
@@ -215,9 +215,9 @@ Workout Log
 7. Rope crunches 4xF RPE10
     * 72x14, 80x10, 80x10, 80x10
 #### Notes:
-    * Don't eat fast food before working out (worked out evening, ate BK 1h before)
-    * Lethargic
-    * Feel weaker than usual, grip is gone 
+* Don't eat fast food before working out (worked out evening, ate BK 1h before)
+* Lethargic
+* Feel weaker than usual, grip is gone 
 ### 02/25/F W1D5 - Chest (pump)
 1. Machine press 3x8 RPE8-10
     * 2'x8, 2'x8, 2'x8
@@ -252,7 +252,7 @@ Workout Log
     * 2'x15, 2'x15, 2'x15, 2'x15, 2'x15, 2'x15
     * 10s hold at last rep
 #### Notes:
-    * Think I'm gonna skip DLs
+* Think I'm gonna skip DLs
 
 ## Week 3
 ### 02/28/M W3D1 - Back 
@@ -308,7 +308,7 @@ Workout Log
     * 4'10x8, 4'10x8, 4'10x8, 4'10x8
     * Tibia raise x25 BTW
 #### Notes: 
-    * Thomas, asian guy with glasses
+* Thomas, asian guy with glasses
 ### 03/03/T W3D4 - Back (Pump)
 * WT: 188, S: 6h
 1. Front Pulldown 4x10 RPE9

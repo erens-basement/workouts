@@ -4,8 +4,30 @@ Workout Log
 
 ## Week 1
 ### 02/14/M W1D1 - Back
-1. One Arm Barbell Row 
-    * 
+1. One Arm Barbell Row 4x8
+    * 35x8, 35x8, 35x8, 35x8
+    * ez, low back hurts from DL 
+2. medium grip chin-ups 3x8
+    * 45x8, 45x8, 45x8
+    * assisted
+3. DB pullover (banded) 3x10 
+    * 35x10, 45x10, 45x10
+    * fuck this set up 
+4. banded shrugs 3x12 RPE 9
+    * Purplex12, Px12, Px12
+    * feet shoulder width, weight down, hold a bit away from handles
+5. BB hypers 3x10 RPE8
+    * 65x10, 65x10, 65x10
+6. decline bench leg raises 4xF RPE9
+    * BWx14, BWx14, BWx14
+    * wanna vomit
+7. DB preacher curl 4x10 RPE9
+    * 25x10, 25x10, 25x10
+    * doing one handed, slow reps
+8.  DB hammer curl 4x8+5 partial RPE9
+    * 25x8, 22.5x8, 20x8, 20x8
+    * 25/22.5 too much
+    * bicep pump feels insane
 ### 02/15/T W1D2 - Chest
 1. Slight Incline DB Press 4x8 RPE8
     * 50x8, 55x8, 55x8, 55x8

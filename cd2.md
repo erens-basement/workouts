@@ -2,6 +2,14 @@
 
 Workout Log 
 
+Wk  Wt,     BF%,    LBM
+W1  186.8   18.79   151.71
+W2  187.3   18.89   151.93
+W3  189.15  19.26   152.6
+W4  187.54  18.96   151.94
+W5  187.6   19.03   152.11
+W6  186.83  18.78   151.67
+
 ## Week 1
 ### 02/14/M W1D1 - Back
 1. One Arm Barbell Row 4x8
@@ -369,3 +377,284 @@ Workout Log
 #### Notes:
 * Phil, tattoo buff white old man
 * secret to growing is not using heavy weights
+
+## Week 4
+### 03/07/M W4D1 - Back
+1. One-arm BB Row 4x8 RPE9-10
+    * 60x8, 60x8, 75x6, 60x8
+    * Grip closer to top, 60 kinda light
+    * 70 or 65 prolly more reasonable
+2. Chest supported row 3x10 R9
+    * 2'25x10, 3'x10, 2'x10, 3'x10
+    * TBH 3'x10 is doable with straps + belt, left hand could
+3. Chins 4xF
+    * 40x8, 40x8, 40x8, 40x8
+    * Focused on increasing DB pullovers more
+4. (SS) DB Pullovers 4x8 RPE9-10
+    * 60x10, 65x8, 70x8, 70x6
+    * 60-65 pullover too ez
+5. Hyperextensions 3x15-20 R8-9
+    * BWx20, BWx20, BWx20
+    * BW, explosive conc, slow ecc
+6. Rope crunches 6xC2F R9
+    * 95x8, 6x
+7. DB Curl 4x8, 3s ECC R9
+    * 20x8, 22.5x8, 22.5x8, 22.5x8
+8. BB Curl 4x8 10sB R10 EZ Bar
+    * 45x8, 45x8, 45x8, 45x8
+#### Notes:
+* Asian guy w/ gf braces DB benches 70s
+* Thomas squats ~185-200
+### 03/08/T W4D2 - Chest
+* 187lb, 6h sleep
+1. Slight incline db press 4x8 RPE9-10
+    * 60x8, 70x3, 65x6, 60x8
+    * warmup 45, 50s
+    * wrist wraps
+2. Incline BB press 3x6 RPE8-10
+    * 95x6, 115x6, 135x4, 135x5
+    * wider grip + wrist wraps
+3. hex press 1x8 RPE11 45sB Repeat
+    * 55x8, 55x7, 55x6
+4. Machine flies 3x10 10sISO R10
+    * 120x10, 130x10, 120x10
+    * Raise seat higher, low wt, stretch pec
+5. Bent over DB swings 4x30 R8-11
+    * 12.5x30, 12.5x30, 10x30, 10x30
+    * Fuck 30 reps
+6. banded seated db press 4x8 R9
+    * 50x8, 50x7, 50x7, 50x7
+    * warmup 35, 45
+    * 3rd 4th sets w/ wraps
+7. Lying extensions 4x10 R9
+    * 22x10, 31x6, 22x10, 26x10
+    * kettlebell
+    * use 26lb next time (12kg) 22/10kg too light, 31 too heavy
+8. DB overhead extensions 4x10 R9
+    * 45x10, 50x10, 60x10, 65x8
+#### Notes:
+* Hu Liu yoga class mom
+* clean practice - did 135lb clean, right hammy hurts after 3rd rep
+* jumping back too much, im catching bar instead of meeting it
+### 03/09/W W4D3 - Legs
+1. Seated leg curl 12,10,8,6 R10
+    * 160x12, 180x10, 200x8, 220x10
+    * right hammy still hurts from cleans yday
+    * can go a lot higher
+2. BB Squats 75% 1RM 3x8 R8
+    * 135x8, 1'x8, 1'x8
+    * Right IT band fking hurts
+3. Hack Squat Drop Set of Death 3x10 R9-11
+    * 3'x10, 3'x10, 3'x10, 2'x10, 1'x10
+    * IT Band still sore can probably increase wt
+4. Leg extension 1x8...30sB...F...Repeat 2x R9
+    * 250x10, 250x10, 250x10
+    * Can def go higher maybe even full stack
+5. BB Stiff Legged Deadlift 3x8 R9
+    * 1'x8, 1'1x7, 1'x8
+6. Standing calve raise 6x10 R0-10
+    * 1'x10, 2'x10, 2'x10, 2'x10, 2'x10, 2'x9
+#### Notes:
+* Hack squat pivot is better than the linear one
+* For hang clean, elbows dont move up fast enough always delayed
+* When I FR SQ, elbows dont go high enough, i think im not used to feeling the clean catch position
+* Be more explosive, think about whipping bar, hit/choke your neck
+### 03/10/T W4D4 - Back (Pump)
+1. DB Row 4x10 R9
+    * 80x10, 80x10, 80x10
+    * Warm up 60 70 80, not using straps correctly
+    * can do 90, but grip fails
+2. Straight arm pushdowns x8
+    * 52x8, 57x8, 62x8, 62x8
+3. (SS) Chins 4x8 R9
+    * BWx6, BWx6, BWx6, BWx6
+4. Prone shrugs 4x12 R9
+    * 25x12, 35x12, 35x12, 35x12
+    * up and back
+    * Feet on ground peel delts back
+    * Light weight until feel it
+    * arms straight
+5. Preacher curls 4x8 R9
+    * 55x8, 55x8, 55x8, 55x8
+    * Used machine, lower weight
+6. Hammer curls 4x12 R9
+    * 20x12, 15x12, 15x12, 15x12
+    * Dropping wt for better form
+    * Long eccentric
+7. Rope crunches 6xF R10
+    * 97x3, 82x10, 87x8, 92x6, 97x5
+#### Notes
+* PR!!! 365 Deadlift!!!!
+* Warm up: 135>225>275>315
+* Working sets:
+    * 335 - actually ez
+    * 345 - breaks ground fast, locking = hard
+    * 365 (attempt 1) - fail, cleared knees
+    * 365 (2nd) - tightened belt, screamed
+### 03/11/F W4D5 - Chest (pump)
+1. Flat DB Press 4x12 R9
+    * 65x8, 65x6, 55x12, 55x132
+    * Pretty fatigued, r elbow hurts    
+2. Pec minor dip x8
+    * BWx8, BWx8, BWx8
+3. (SS) Dips 4x8-10 R9
+    * 40x10, 25x8, 10x8 (assist)
+4. DB side laterals x8
+    * 15x8, 15x8, 15x8, 15x8
+5. (SS) Bent over db swings 4x12 R9
+    * 15x12, 15x12, 15x12, 15x12
+6. Pronated kickbacks 4x10 R9
+    * 15x10, 15x10, 15x10, 15x10
+7. Lying extensions 4x12 R9
+    * EZBar+20x12, 20x12, 20x12, 20x12
+#### Notes:
+* Elbows flared, r. hurts more, r. shoulder hurts
+* Eyetomic tatttoo
+### 03/12/S W4D6 - Legs (Pump)
+1. Lying leg curl R8-10 3x8
+    * 110x8, 120x8, 130x5
+2. Leg press x10 R8
+    * 3'x8, 3'x8, 3'x8, 3'x10
+    * less weight full ROM
+    * thought it was 8 reps, whoops
+3. (SS) DB walking lunge 4x8 R9
+    * 25x8, 25x8, 25x8, 25x8
+    * Tried doing 45s, shit thats hard
+4. Seated calve raises 6x15 10s ISO R9
+    * 2'x15, 6x
+#### Notes:
+* 275 strapless deadlift
+* DLing today was a mistake, stop ego lifting!!!
+
+## Week 5
+### 03/14/M W5D1 - Back
+1. Meadow's row 4x8 R9
+    * 50x8, 50x8, 50x8, 50x8
+    * Can go higher, but grip is shit
+    * Bar+50
+2. Rack pulls 5x5 R8-9
+    * 1'x5, 1'25x5, 1'25x5, 1'1x5, 1'1x5
+    * Staying at low wt, focus on form
+3. Straight arm pushdowns x8
+    * 47x7, 52x8, 52x8, 57x8
+4. (SS) DB pullovers 4x8 R9-10
+    * 65x8, 60x8, 60x8, 60x8
+    * slowing it down
+    * elbows hurt
+5. Face pulls 2x12 R9
+    * 52x12, 62x12
+    * 62 is good
+6. Hanging leg raises 6xC2F R9
+    *  BWx12, BWx12, BWx12, BWx11, BWx10, BWx10
+    * Legs straight
+7. EZ Bar curl 4x8 5s ECC R9
+    * EZB+20x8, 20x8, 20x8, 20x8
+8. EZ Bar Preacher curl 4x8, 4s ECC R9-10
+    * EZB20x5, 15x8, 15x8, 15x8
+    * Feels good, forearms on fire
+#### Notes
+* Taking it ez today
+### 03/15/T W5D2 - Chest
+* 186lb 
+1. Machine Press 3x8 R8-10
+    * 2'x8, 2'x8, 2'x8
+2. Flat bench bb press 5x5 R8-10
+    * 135x5, 145x5, 155x5, 165x2, 135x5
+    * Not supposed to pyramid, but wanted to see how far
+3. Dips x8
+    * BWx8, BWx8, BWx8
+4. (SS) Stretch pushups 3x6 R10
+    * BWx6, BWx6, BWx6
+5. Cage Press 4x8 R9
+    * 25x8, 30x8, 35x8, 35x8
+    * using smith machine
+6. Machine rear delt flyes 4x15 1s ISO R9
+    * 100x15, 100x15, 90x15, 90x15
+    * Lower weight, worried about elbow soreness
+7. Pushdowns 4x12 R9
+    * 35x12, 42x12, 42x12, 42x12
+    * Single handles
+    * Elbows hate me
+8. DB overhead extensions 4x10 R9
+    * 60x10, 65x10, 65x9, 65x7
+### 03/16/W W5D3 - Legs
+1. Lying leg curl 12,10,8,6 R10
+    * 115x12, 120x10, 125x8, 130x6
+    * Just on the limit of difficult
+2. Leg press 3x8 R9
+    * 3'x8, 3'x8, 3'x8
+3. Smith lunges 3x10 R9
+    * 1"x10, 1"x10, 1"x10
+4. Leg extensions 3x8 Last set-15 partials R9-11
+    * 245x8, 265x8, 265x8,15
+5. BB stiff legged deadlift 3x8 R9
+    * 1'x8, 1'x8, 1'x8
+6. Standing calve raises 3x20 & 3x8, 1s ISO R9-10
+    * 2'x20, 2'x20, 2'x20, 2'1x8, 2'1x8, 2'1x8
+
+
+
+## Week 6
+### 03/21/M W6D1 - Back
+1. Meadows row 4x10 R9
+    * 3"x10, 3"x10, 3"x10
+    * Was wearing straps wrong whole time
+2. Rack pulls mid-shin 5x5 R8-9
+    * 1'1x5, 5x
+3. Straight arm pushdowns
+    * 62x8, 4x
+4. Single arm supinated pulldowns 4x8 R9-10
+    * 120x8, 120x8, 120x6, 100x8
+    * Slowed down last set
+5. Face pulls 3x12 R9
+    * 62x12, 57x12, 57x12
+6. Hanging leg raises 6xC2F R9
+    * BWx12, BWx10, BWx10, BWx10, BWx10, BWx9
+    * 10 clean reps please
+7. EZ Bar curl 4x12 R9-10
+    * 45x12, 45x12, 45x12, 45x12
+8. Hammer curl 4x10 R9-10
+    * 17.5x10, 4x
+#### Notes:
+* One arm row, db row - wrapped incorrectly
+### 03/22/T W6D2 - Chest
+1. Machine press 3x10 R9-10
+    * 2'x10, 2'x10, 2'x10
+2. Flat bench BB Press 5x5 R8-10
+    * 155x5, 155x5, 155x4, 155x5, 155xt5
+    * Proud of myself, that was hard
+3. Dips 3x10 R9-10
+    * bwx10, 3x
+    * Getting better at balancing
+4. Flat DB press 3x8 R9-10
+    * 50x8, 55x8, 55x10
+    * 50s too ez
+    * 55 on edge, tbh 60x8 doable
+5. Cage Press 4x6 R9
+    * 35x6, 1'x5, 35x6, 35x6
+    * smith machine, 35 each side
+6. Machine rear delt flys 4x25 R9
+    * 80x25, 80x23, 75x23, 70x25
+    * Last 2 reps rly hard
+7. Pushdowns 4x8 R9
+    * 60x8, 60x8, 60x8, 70x5
+    * Rope handle
+8. Lying kettlebell extensions 4x12 R9
+    * 26x8, 22x12, 18x12, 18x12
+#### Notes:
+* Bench PR - 165, 175 (ez), 185 fail
+* Did wide grip, maybe more narrow? 
+* Eric - asian guy in hoodie with forearm tatt
+* Braces gf dude - 180 lat pd, cheats a lot tho
+### 03/23/W W6D3 - Legs
+1. Leg press 3x8 R9
+    * 4x8, 4'x8, 4'x10
+2. Squat 3x10 R9
+    * 1'x10, 1'5x10, 1'10x10
+3. Leg ext 3x8 3s ISO all reps R9
+    * 205x8, 205x8, 205x8
+    * lower wt bc iso hold 3s
+4. Lying leg curl 4x12 45s B R10
+    * 110x12, 90x12, 90x12
+5. Standing calve raises 8x10
+    * 2'x10, 8x

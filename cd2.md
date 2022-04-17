@@ -2,19 +2,20 @@
 
 Workout Log 
 
-Week    Wt (lb)	Cal	    P (g)	C (g)	F (g)	TDEE 	Sleep (h:m:s)
-1	    186.8	2791	239	    216	    103	    2015	5:19:00
-2	    187.3	2527	232	    183	    96.4	1974	6:29:00
-3	    189.15	2951	242	    262	    106	    2270	5:35:00
-4	    187.54	2735	223	    216	    107	    2807	5:12:00
-5	    187.6	3149	261	    280	    95.1	2202	6:30:00
-6	    186.83	3134	232	    222	    131	    2098	5:58:00
-7	    187.6	3628	231	    349	    134	    2092	5:53:00
-8	    188.71	3595	234	    376	    121	    1664	5:37:00
-9	    189.9	4055	246	    388	    161	    2488	6:06:00
-10							
-11							
-12							
+| Week | Wt (lb) | Cal  | P (g) | C (g) | F (g) | TDEE | Sleep (h:m:s) |
+|------|---------|------|-------|-------|-------|------|---------------|
+| 1    | 186.8   | 2791 | 239   | 216   | 103   | 2015 | 5:19:00       |
+| 2    | 187.3   | 2527 | 232   | 183   | 96.4  | 1974 | 6:29:00       |
+| 3    | 189.15  | 2951 | 242   | 262   | 106   | 2270 | 5:35:00       |
+| 4    | 187.54  | 2735 | 223   | 216   | 107   | 2807 | 5:12:00       |
+| 5    | 187.6   | 3149 | 261   | 280   | 95.1  | 2202 | 6:30:00       |
+| 6    | 186.83  | 3134 | 232   | 222   | 131   | 2098 | 5:58:00       |
+| 7    | 187.6   | 3628 | 231   | 349   | 134   | 2092 | 5:53:00       |
+| 8    | 188.71  | 3595 | 234   | 376   | 121   | 1664 | 5:37:00       |
+| 9    | 189.9   | 4055 | 246   | 388   | 161   | 2488 | 6:06:00       |
+| 10   |         |      |       |       |       |      |               |
+| 11   |         |      |       |       |       |      |               |
+| 12   |         |      |       |       |       |      |               |					
 
 ## Week 1
 ### 02/14/M W1D1 - Back
@@ -799,45 +800,73 @@ Week    Wt (lb)	Cal	    P (g)	C (g)	F (g)	TDEE 	Sleep (h:m:s)
 #### Notes:
 * emmanuel - buff latino dude tattoos does classic phys
 ## Week 9
-### 03/28/M W7D1 - Back
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 04/11/M W9D1 - Back
+1. db row 4x8 r9
+    * 30x8, 4x STAY AT THIS WEIGHT
+    * bench, hold end, swing back, don't abuse biceps
+    * opposite leg out, incline
+    * stay at 30
+    * elbows up, draw elbows back
+2. banded chins 1x50 r9
+    * 40x10, 40x10, 55x10, 55x10, 55x10
+    * no bands, assisted 
+3. low cable row 4x10 r9
+    * 30x10, 4x 
+    * scoop elbows
+    * single handle, bench + 2 plates for chest support, cable
+4. banded pullovers 4x10
+    * 50x10, 4x
+    * no bands, push chest out at the ened of mvmt full contraction
+5. bb hyperextensions 2x10 r9
+    * 50x10, 2x
+    * slow down!!!
+    * rly feel it in hams glutes + post chain
+6. hanging leg raises 6xc2f
+    * bwx10, 6x
+7. ez bar preacher curls 4x12 r9-10
+    * ezb+5sx12, 4x
+8. hammer curls r9-10 4x10
+    * 15x10, 4x
+#### Notes:
+* low row - bring chest fwd, scoop
+* weight doesnt matter, muscles only know intensity so don't cheat
+### 04/12/T W9D2 - Chest
+1. flat db press 3x8 r9
+    * 8x50, 8x55, 8x60, 8x65
+    * pull shoulders back
+2. incline bb press 3x10 r8-10
+    * 95x10, 105x10, 115x10, 125x8
+3. hex press 3x10 r9-11
+    * 50x10, 50x8, 45x9
+4. machine flyes 3x10 10 partials r9-10
+    * 100x10, 110x10, 90x10, 10p
+5. db bent over side lateral swings 4x20 r9
+    * 15x20, 4x
+6. machine rear delt flyes 4x8 5s ECC r9
+    * 80x8, 4x
+7. bent over extensions w/ single handles 4x10 r9
+    * 35x10, 4x
+8. seated rope overhead extensions 4x10 15s ISO r9
+    * 30x10, 4x
 #### Notes:
 * 
-### 03/29/T W7D2 - Chest
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 04/16/S W9D3 - Legs
+1. seated leg curl 4x8 r9
+    * 200x8, 220x8, 240x8, 260x8, 280x4
+    * 160 180 warmup
+2. squat 4x8 r9-11
+    * 1'x8, 4x
+3. leg press 4x8 r9
+    * 4'x8, 4x
+    * can go up
+4. hack squat 3x10 3s ECC r9
+    * 2'x10, 3x
+    * can do more, but focus on contraction
+5. standing calve raises 4x10 r9-10
+    * 5'x10, 4x
+    * redx20, 4x tib raises
 #### Notes:
-* 
-### 03/30/W W7D3 - Legs
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
-#### Notes:
-* 
+* did 3' trap bar farmers walk 20,10yards after workout
 ## Week 10
 ### 03/28/M W7D1 - Back
 1. 

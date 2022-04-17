@@ -2,13 +2,19 @@
 
 Workout Log 
 
-Wk  Wt,     BF%,    LBM
-W1  186.8   18.79   151.71
-W2  187.3   18.89   151.93
-W3  189.15  19.26   152.6
-W4  187.54  18.96   151.94
-W5  187.6   19.03   152.11
-W6  186.83  18.78   151.67
+Week    Wt (lb)	Cal	    P (g)	C (g)	F (g)	TDEE 	Sleep (h:m:s)
+1	    186.8	2791	239	    216	    103	    2015	5:19:00
+2	    187.3	2527	232	    183	    96.4	1974	6:29:00
+3	    189.15	2951	242	    262	    106	    2270	5:35:00
+4	    187.54	2735	223	    216	    107	    2807	5:12:00
+5	    187.6	3149	261	    280	    95.1	2202	6:30:00
+6	    186.83	3134	232	    222	    131	    2098	5:58:00
+7	    187.6	3628	231	    349	    134	    2092	5:53:00
+8	    188.71	3595	234	    376	    121	    1664	5:37:00
+9	    189.9	4055	246	    388	    161	    2488	6:06:00
+10							
+11							
+12							
 
 ## Week 1
 ### 02/14/M W1D1 - Back
@@ -658,3 +664,297 @@ W6  186.83  18.78   151.67
     * 110x12, 90x12, 90x12
 5. Standing calve raises 8x10
     * 2'x10, 8x
+
+
+## Week 7
+* dropping leg pump day to only 5 days training, 2 days rest
+### 03/28/M W7D1 - Back
+1. Meadow's Row 4x12 R9
+    * 3"x12, 4x
+2. Rack pulls 5x5 R9 Start @ knees
+    * 2'x5, 2'1x5, 3'x5, 3'1x1 LOL 4'x1 3'x5
+    * do 3' for 5x5 next time
+3. DB pullovers 4x10 R9
+    * 70x10, 75x10, 75x10, 75x6, 75x4
+    * 70 felt kinda ez, 75 nb at all
+4. Supported chest rows 4x8 R9-10
+    * 3'x8, 3'x6, 2'1x8
+    * using machine
+    * kinda struggle 3'
+5. Hanging leg raises 6xC2F R9
+    * BWx10, 6x
+    * Grip is gone, doing knee raises
+6. DB preacher curl 4x8 R9-10
+    * 25x8, 4x
+    * Love this movement, when slow down
+7. EZ bar curl  4x12 30sB R9-10
+    * 35x12, 35x12, 35x8, 25x12
+#### Notes:
+* 
+### 03/29/T W7D2 - Chest
+1. Machine press 3x12 R9-10
+    * 2'x12, 3x
+    * not bad
+2. Incline bb press 3x6 R8-10
+    * 95x6, 115x6, 135x4
+    * close to 135x5
+3. Dips 3x10 R9-10
+    * BWx10, 3x
+4. Machine flyes 3x10 3rd set 10 partials R9-10
+    * 130x10, 3x
+5. DB side lateral partyials 4x20 R9-10
+    * 30x20, 4x
+6. Machine rear delt flyes 4x25 1s Hold R9
+    * 85x25, 70x20, 60x20
+    * Didn't iso hold 1st set
+    * v hard
+7. Pushdowns 4x12 R9
+    * 50x12, 55x12, 60x10
+    * bar handle
+8. DB overhead extensions 4x10 R9
+    * 55x10, 60x10, 65x9, 60x10
+    * warmup 45, 50
+#### Notes:
+* 
+### 03/30/W W7D3 - Legs
+1. Lying leg curl 4x12 R9
+    * 80x12, 95x12, 110x12, 125x12
+    * 125 not hard at all
+2. Leg press 3x8 R9
+    * 2'x8, 3'x8, 3'1x8, 4'x10
+    * 4' not bad
+3. Squat 3x12 R9
+    * 1'x12, 3x
+    * So much volume, actually hard
+4. Hack squat 3x8 R9
+    * 3'x8, 3'1x8, 4'x8
+5. DB stiff legged deadlift 3x10 3/4 L/O R9-10
+    * 50x10, 50x10, 50x10
+    * stop rounding back or drop wt
+6. Standing calve raises 8x8 R9-10
+    * 4'1x8, 5'x8, 7x
+    * 8x15 tib raise purple band, kinda hard
+#### Notes:
+* 
+## Week 8 DELOAD WEEK - 80% vol, RPE8
+* santiago told me to deload
+### 04/04/M W8D1 - Back
+1. Meadow's row 4x6
+    * 2"x6, 4x
+    * draw elbows back towards core
+    * cheat too much on these in the past
+2. Rack pulls 5x4
+    * 2'x4, 5x
+    * can keep going heavy
+3. stretchers 4x8
+    * 100x8, 4x
+    * stretch position biceps by head towards core
+4. supported chest rows 4x6 tbar
+    * 1'1x6, 1'1x6, 1'1x6, 2'x4
+5. hanging leg raises 6x8
+    * bwx8, 6x
+6. ez bar preacher curl 4x
+    * 45x6, 4x
+7. standing alternate db curls 4x8
+    * 20x8, 15x8, 3x
+    * squeeze pinkies
+#### Notes:
+* santi deloads clients every 4-5 wks
+* joseph was feeling my arms, pointing it out
+### 04/05/T W8D2 - Chest
+1. machine press 3x6
+    * 2'x6, 3x
+    * i think im cheating, chin is tucked
+    * check form next week
+2. incline bb press 3x6
+    * 95x6, 105x6, 115x6
+3. flat db press 3x8 3/4 l/o drop set x6, 3 times
+    * 55x8, 3x, 50x6, 45x6, 40x6
+4. machine flyes 3x8 10 partials
+    * 120x8, 3x
+5. db side laterals 4x6
+    * 15x6, 4x
+6. machine rear delt flyes 4x12 2s ISO
+    * 80x12, 4x
+7. dual rope pushdowns 4x10
+    * 42x10, 4x
+8. seated rope overhead extensions 4x8 15s stretch
+    * 42x8, 4x
+#### Notes:
+* 
+### 04/06/W W8D3 - Legs
+1. seated leg curl 4x10
+    * 180x10, 160x8, 140x10
+    * holding iso feels so good, slow descent
+2. leg press 1x6,+1'x3,-1'x3,-1'x3
+    * 3'x6, 3'1x3, 3'x3, 2'1x3
+3. machine squat 5x6 3s ECC
+    * 2'x6, 5x
+    * hack squat
+4. banded good morning 3x20 3/4 l/o
+    * redx20 purplex20, px20
+    * like this exercise
+5. standing calve raises 4x20
+    * 3'x20, 4x
+#### Notes:
+* emmanuel - buff latino dude tattoos does classic phys
+## Week 9
+### 03/28/M W7D1 - Back
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/29/T W7D2 - Chest
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/30/W W7D3 - Legs
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+## Week 10
+### 03/28/M W7D1 - Back
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/29/T W7D2 - Chest
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/30/W W7D3 - Legs
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+## Week 11
+### 03/28/M W7D1 - Back
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/29/T W7D2 - Chest
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/30/W W7D3 - Legs
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+## Week 12
+### 03/28/M W7D1 - Back
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/29/T W7D2 - Chest
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 
+### 03/30/W W7D3 - Legs
+1. 
+    * 
+2. 
+    * 
+3. 
+    * 
+4. 
+    * 
+5. 
+    * 
+#### Notes:
+* 

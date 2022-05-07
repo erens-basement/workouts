@@ -2,20 +2,20 @@
 
 Workout Log 
 
-| Week | Wt (lb) | Cal  | P (g) | C (g) | F (g) | TDEE | Sleep (h:m:s) |
-|------|---------|------|-------|-------|-------|------|---------------|
-| 1    | 186.8   | 2791 | 239   | 216   | 103   | 2015 | 5:19:00       |
-| 2    | 187.3   | 2527 | 232   | 183   | 96.4  | 1974 | 6:29:00       |
-| 3    | 189.15  | 2951 | 242   | 262   | 106   | 2270 | 5:35:00       |
-| 4    | 187.54  | 2735 | 223   | 216   | 107   | 2807 | 5:12:00       |
-| 5    | 187.6   | 3149 | 261   | 280   | 95.1  | 2202 | 6:30:00       |
-| 6    | 186.83  | 3134 | 232   | 222   | 131   | 2098 | 5:58:00       |
-| 7    | 187.6   | 3628 | 231   | 349   | 134   | 2092 | 5:53:00       |
-| 8    | 188.71  | 3595 | 234   | 376   | 121   | 1664 | 5:37:00       |
-| 9    | 189.9   | 4055 | 246   | 388   | 161   | 2488 | 6:06:00       |
-| 10   |         |      |       |       |       |      |               |
-| 11   |         |      |       |       |       |      |               |
-| 12   |         |      |       |       |       |      |               |					
+| Week | Wt (lb) | Cal  | P (g) | C (g) | F (g) | TDEE  | Sleep   |
+|------|---------|------|-------|-------|-------|-------|---------|
+|    1 |   186.8 | 2791 |   239 |   216 |   103 |  2015 | 5:19:00 |
+|    2 |   187.3 | 2527 |   232 |   183 |  96.4 |  1974 | 6:29:00 |
+|    3 |  189.15 | 2951 |   242 |   262 |   106 |  2270 | 5:35:00 |
+|    4 |  187.54 | 2735 |   223 |   216 |   107 |  2807 | 5:12:00 |
+|    5 |   187.6 | 3149 |   261 |   280 |  95.1 |  2202 | 6:30:00 |
+|    6 |  186.83 | 3134 |   232 |   222 |   131 |  2098 | 5:58:00 |
+|    7 |   187.6 | 3628 |   231 |   349 |   134 |  2092 | 5:53:00 |
+|    8 |  188.71 | 3595 |   234 |   376 |   121 |  1664 | 5:37:00 |
+|    9 |   189.9 | 4055 |   246 |   388 |   161 |  2488 | 6:06:00 |
+|   10 |  189.64 | 3418 |   248 |   323 |   119 |       | 6:58:00 |
+|   11 |  190.44 | 3654 |   238 |   336 |   140 |  2050 | 5:18:00 |
+|   12 |         |      |       |       |       |       |         |					
 
 ## Week 1
 ### 02/14/M W1D1 - Back
@@ -669,6 +669,7 @@ Workout Log
 
 ## Week 7
 * dropping leg pump day to only 5 days training, 2 days rest
+* started supplements: fish oil, b12, d3, calcium, multi, collagen
 ### 03/28/M W7D1 - Back
 1. Meadow's Row 4x12 R9
     * 3"x12, 4x
@@ -867,123 +868,203 @@ Workout Log
     * redx20, 4x tib raises
 #### Notes:
 * did 3' trap bar farmers walk 20,10yards after workout
+
 ## Week 10
-### 03/28/M W7D1 - Back
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 04/18/M W10D1 - Back
+1. DB Row 4x10 R9
+    * 30x10, 35x10, 40x10, 45x10
+    * Not feeling it w/ 30, 35
+    * feel it w/ 40, 40/45 perfect
+2. banded chins 1x55 r9
+    * -40x10, 5x -40x5
+3. supported chest rows 4x8 r9 t-bar
+    * 1'x8, 4x
+4. single arm supinated rows 3x10 r9-10
+    * 30x10, 35x10, 40x10
+    * 30 no feel, 35 good 40 good stretch
+5. bb hypers 3x10 r9
+    * 50x10, 3x
+6. hanging leg raises 6xc2f r9
+    * bwx10, 6x
+7. ez bar curls 4x8, 2 partials r9-10
+    * 45x8,2 4x
+8. reverse curls 4x10 r9-10
+#### Notes:
+* don't lower/raise all the way, constant tension pausing at bottom also works
+### 04/19/T W10D2 - Chest
+1. flat db press 8,8,10 r9-10
+    * 65x8, 70x8, 65x10
+    * warmup 45,50,55,60
+2. incline bb press 3x6 r8-10
+    * 95x6,115x6,135x5
+3. wide grip dips 3xf r10
+    * bwx10, 3x
+4. incline bb flyes 3x10, 6p r9-11
+    * 20x10, 3x
+5. over and back press 4x8 r9
+    * 65x8,4x
+    * warmup 45
+6. machine rear delt flyes 4x25 r9
+    * 70x25, 4x
+7. pushdowns w/ single handles 4x10
+    * 35x10, 4x
+8. seated rope overhead ext 4x10
+    * 35x10, 4x
 #### Notes:
 * 
-### 03/29/T W7D2 - Chest
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 04/20/w W10D3 - Legs
+1. lying leg curl 3x15 r9
+    * 125x15, 3x
+2. squat 4x8 r9-11
+    * 1'x8, 1'5x8, 3x
+    * 1'5 feels good, can pause all reps, hitting depth
+3. leg press 3x10 high + wide feet
+    * 4'x10,3x
+    * hit depth, good job
+4. hack squat 1.5s 3x8 r9
+    * 2'x8, 3x
+    * hard
+5. standing calve raises 4x10
+    * 5'x10, 4x
+    * tibs
 #### Notes:
-* 
-### 03/30/W W7D3 - Legs
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
-#### Notes:
-* 
+* I deadlift better after a workout/later in the day
 ## Week 11
-### 03/28/M W7D1 - Back
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 04/25/m W11D1 - Back
+1. db row 4x12 r9
+    * 40x12, 4x
+2. banded chins 1x60 r9
+    * -40x10,6x
+    * no bands
+3. supported chest rows 4x8 r9
+    * 40x8,4x
+4. db pullovers 3x12 r9-10
+    * 80x10, 75x10, 70x12
+5. bb hypers 4x10 r9
+    * 45x10, 4x
+    * no hyper mch, using ghd w/ 45 plate
+6. hanging leg raises 6xc2f r9
+    * bwx10,6x
+7. db supinated curls 4x8 r9-10
+    * 20x8,4x
+8. zottman curls 4x10 r9-10
+    * 15x10, 4x
 #### Notes:
-* 
-### 03/29/T W7D2 - Chest
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+* knees, ankles, hips hurt - too much running? sumo?
+* 4',3' rack pulls 2x's
+* 4x20yard @ 315lb farmers walk
+### 04/26/T W10D2 - Chest
+1. flat db press 3x12 r9-10
+    * 65x12, 60x10, 60x9
+    * can do 70, doing 65 for 12
+    * warmup 45 50 60
+2. incline bb press 3x8 r8-10
+    * 95x8, 105x8, 115x8
+    * too tired
+3. banded hammer press 3x8 r10
+    * 2'x8, 3x
+    * too tired
+4. machine flyes 3x10 r9
+    * 120x10, 3x
+5. over & back press 4x10 r9
+    * 45x10, 4x
+    * dropping weight to 45, work on form
+    * kills shoulders, burns
+6. mch rear delt flyes 4x25 r9
+    * 60x25, 4x
+    * fatigued
+7. incline lying ext 4x10
+    * 45x10 55x10,3x
+8. seated rope overhead ext 4x10
+    * 32x10, 4x
 #### Notes:
-* 
-### 03/30/W W7D3 - Legs
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+* tired from 1rm bench 175 success, failed 180
+### 04/27/W W10D3 - Legs
+1. seated leg curls
+    * 200x12, 220x12, 240x12, 260x12
+    * warmup 100 140 180
+2. squat 3x6 r9
+    * 95x6, 135x6, 155x6
+    * depth + form
+3. leg press 3x30 3m break r9
+    * 2'x30, 3x
+4. hack squats 1.5s 2x15 r9
+    * 2'x15, 2x
+5. standing calve raise 4x25 r9-10
+    * 5'x25
 #### Notes:
 * 
 ## Week 12
-### 03/28/M W7D1 - Back
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 05/02/M W12D1 - Back
+* warmup with 35 pullups for time
+* good workout
+1. db row 4x8 r9
+    * 30x8, 40x8, 50x8, 60x8
+    * 40+50 good stretch
+2. banded chins 1x70 r9
+    * 7x10 @ -40
+3. db pullovers 4x10 r9-10
+    * 80x10, 80x8, 75x10, 75x10
+    * warmup 60 70 75
+4. rack pulls 3x3 r7-10
+    * 315x3, 365x3 ,405x3
+    * ez
+5. farmers walk 3x20 steps/10 leg
+    * 225x20, 275x20, 275x20, 315x20, 315x20
+    * 315 felt so easy, no knee sleeves
+6. hanging leg raises 6xc2f
+    * SKIPPED
+7. machine curls 4x8 2s hold r9-10
+    * 35x8, 4x
+    * preacher mch, 35 = really beautiful stretch at bottom
+8. ez bar curls 4x20 r9-10
+    * 35x20,4x
+    * this was soo hard
 #### Notes:
 * 
-### 03/29/T W7D2 - Chest
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 05/03/T W12D2 - Chest
+* right shoulder + elbow hurts
+1. flat db press 3x8 r9-10
+    * 70x2, 65x8, 65x8
+    * warmup 45 55 65
+2. incline bb press 3x6 r8-10
+    * 95x6, 115x6, 125x6, 135x4
+    * proud
+3. cable crossover 3x10 last set: 10,8,6,4 r10
+    * 20x10, 3x
+4. flat db flyes 3x10 r9 3/4 l/o good stretch
+    * 3x10 @ 22.5lb
+5. db leaning side laterals 4x12 r9
+    * 4x12 @ 15lb
+6. spider crawls 4x3 up down, 10 over back r9
+    * 4x8 @ RED
+7. tate press 4x10 r9
+    * 17.5x10, 4x
+    * sideways tricep ext? weird asf fuck this
+    * fuck this
+8. lying ext 4x15 r9
+    * 4x15 @ 20lb/arm
+    * kettlebell
 #### Notes:
 * 
-### 03/30/W W7D3 - Legs
-1. 
-    * 
-2. 
-    * 
-3. 
-    * 
-4. 
-    * 
-5. 
-    * 
+### 05/04/W W12D3 - Legs
+1. seated leg curl 4x8 drop 10,15p r9
+    * 240x8, 260x8 280x8 300x2 <-- gg
+    * warmup 200,220
+    * 240 260 - best form, 280 prolly lim
+2. leg ext 4x10 drop 10r, 15p r9
+    * SKIPPED IDK WHY
+    * did 250lb in the past
+3. leg press 4x15 2m B R9
+    * 3'x15 3.5'x15 4'x15 5'x10
+    * warmup 2'
+    * depth, hard 4'-sketch reps
+4. hack squat 1.5s 3x8 r9
+    * 2'x8 2.5'x8 3'x8
+5. standing calve raises 4x8 r9-10
+    * 4x8 @ 6'
+    * 4x20 tib @ purple
 #### Notes:
-* 
+* jerk from rack 5x32 @ 105
+    * 105x2, 5x
+    * bar moving a lot slower
